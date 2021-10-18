@@ -74,7 +74,7 @@
         </div>
 
         <div class="col-md-6">
-          <h4>Title of Video Group 6</h2>
+          <h4><i class="fas fa-mail-bulk"></i> Title of Video Group 6</h2>
           <ul class="icon-list">
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
