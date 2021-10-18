@@ -25,7 +25,7 @@
       <hr>
       <div class="row g-5">
         <div class="col-md-6">
-          <h4>Title of Video Group 1</h2>
+          <h4><i class="fas fa-plane"></i> Title of Video Group 1</h2>
           <ul class="icon-list">
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
@@ -35,7 +35,7 @@
         </div>
   
         <div class="col-md-6">
-          <h4>Title of Video Group 2</h2>
+          <h4><i class="fas fa-envelope"></i> Title of Video Group 2</h2>
           <ul class="icon-list">
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
@@ -45,7 +45,7 @@
         </div>
 
         <div class="col-md-6">
-          <h4>Title of Video Group 3</h2>
+          <h4><i class="fas fa-truck"></i> Title of Video Group 3</h2>
           <ul class="icon-list">
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
@@ -55,7 +55,7 @@
         </div>
 
         <div class="col-md-6">
-          <h4>Title of Video Group 4</h2>
+          <h4><i class="fas fa-box-open"></i> Title of Video Group 4</h2>
           <ul class="icon-list">
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
@@ -65,7 +65,7 @@
         </div>
 
         <div class="col-md-6">
-          <h4>Title of Video Group 5</h2>
+          <h4><i class="fas fa-address-card"></i> Title of Video Group 5</h2>
           <ul class="icon-list">
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
             <li><a href="#" target="_blank">Video title goes here</a> <i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-placement="right" title="(Video description will go here for customers to read.)"></i></li>
